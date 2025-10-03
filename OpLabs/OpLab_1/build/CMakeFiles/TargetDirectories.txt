@@ -1,0 +1,3 @@
+/home/benti/Desktop/c++/OpLabs/OpLab1/labwork1-Benti261/build/CMakeFiles/generator.dir
+/home/benti/Desktop/c++/OpLabs/OpLab1/labwork1-Benti261/build/CMakeFiles/edit_cache.dir
+/home/benti/Desktop/c++/OpLabs/OpLab1/labwork1-Benti261/build/CMakeFiles/rebuild_cache.dir
